@@ -66,6 +66,9 @@ Sample use: ```<form action="/submit-form" method="post"></form>```
 - The ```<input>``` tag is used within forms to allow users to enter data. It supports various types such as text, email, and password. <br>
 Sample use: ```<input type="text" name="username">```
 
+- The ```<button>``` tag is used to create a button on the webpage. <br>
+Sample use: ```<button type="submit">Submit</button>```
+
 - The ```<label>``` tag provides a label for an input element, improving form accessibility and usability. <br>
 Sample use: ```<label for="username">Username:</label>```
 
