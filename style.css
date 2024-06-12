@@ -66,7 +66,7 @@ option{
     width: 100%;
 }
 
-input[type=submit]{
+button{
     width: 60%;
     margin-left: auto;
     margin-right: auto;
