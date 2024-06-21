@@ -12,19 +12,19 @@ You can visit the web [here]().
 
 1. Navigation
    - The Navigation is sticky (or maybe fixed). The navbar will stay at the top when you try to scroll down.
-  <img src = "assets/Sticky Navbar.png" width="300">
+   <img src = "assets/Sticky Navbar.png" width="300">
 
-2. Main
+1. Main
    - I centered this using flex. Lil bit amazed with myself. 
-  <img src = "assets/center-flex.png" width="300">
+   <img src = "assets/center-flex.png" width="300">
 
    - I used grid to display the product. Pssst, you will see a fade in animated when scroll down through the product!
-  <img src = "assets/main-products.png" width="300">
+   <img src = "assets/main-products.png" width="300">
 
    - I also made a carrousel, it took a long time for me to figure this out, pheww finally can made it. 
-  <img src = "assets/reviewcar.png" width="300">
+   <img src = "assets/reviewcar.png" width="300">
 
-3. Responsive 
+1. Responsive 
    - I made the navbar responsive too, you can toggle the hamburger button, and it will shows you the full option
    <img src = "assets/respnav.png" width="220" height="80">
 
@@ -32,7 +32,7 @@ You can visit the web [here]().
    <img src = "assets/single product.png" width="200" height ="200">
 
    - and the review will be more smaller *it's not perfect :(
-    <img src = "assets/respreview.png" width="150" height="150">
+   <img src = "assets/respreview.png" width="150" height="150">
 
 Note: I didn't make the registration pop up form because I didn't have enough time, I will definitely make it maybe in 2 days later. 
 
