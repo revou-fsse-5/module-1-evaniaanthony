@@ -8,7 +8,7 @@ It's not perfect because I was in hurry while doing this. I trapped in another c
 ## The Project
 So, I made a website for grounded, an online marketplace to buy organic body products. 
 I used pure html, css and JS. 
-You can visit the web [here]().
+You can visit the web [here](https://revou-fsse-5.github.io/module-1-evaniaanthony/).
 
 1. Navigation
 - The Navigation is sticky (or maybe fixed). The navbar will stay at the top when you try to scroll down.
