@@ -327,12 +327,12 @@ footer p {
     .grid-container {
         display: grid;
         grid-template-columns: repeat(1,18rem); 
-        grid-template-rows: repeat(1, 450px);
+        grid-template-rows: repeat(1, 30rem);
     }
 
     .item img{
-        height: 100px;
-        width: 100px;
+        height: 6rem;
+        width: 6rem;
     }
 
     .item p{
